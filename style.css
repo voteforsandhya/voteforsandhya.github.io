@@ -15,7 +15,7 @@ body {
 
 h1 {
   font-size: 550%;
-  font-size: 3.5vw;
+  font-size: 4.5vw;
   font-weight: normal;
   margin: 0;
   /* These styles are because the Bungee Shade typeface does not match the letter size of the other two, so it is not a perfect chromatic. */
@@ -24,7 +24,7 @@ h1 {
 
 h2 {
   font-size: 550%;
-  font-size: 3.0vw;
+  font-size: 4.0vw;
   font-weight: normal;
   margin: .5em 0 0 0;
   /* These styles are because the Bungee Shade typeface does not match the letter size of the other two, so it is not a perfect chromatic. */
@@ -33,7 +33,7 @@ h2 {
 
 h3 {
   font-size: 400%;
-  font-size: 2.5vw;
+  font-size: 3.5vw;
   font-weight: normal;
   margin: 1em 0 0 0;
   /* These styles are because the Bungee Shade typeface does not match the letter size of the other two, so it is not a perfect chromatic. */
